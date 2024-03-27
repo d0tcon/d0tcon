@@ -19,7 +19,7 @@
 
 A tecnologia não vai mudar o mundo, ela já mundou e constantemente muda mais ainda.
 
-Pai, amigo, apaixonado por tecnologia e suas evoluções, um aprendiz na programação que está amando conhecer e entrar cada vez mais nesse mundo. Aberto a novas oportunidades.
+Pai, amigo, apaixonado por tecnologia e um aprendiz na programação que está amando conhecer e entrar cada vez mais nesse mundo. Aberto a novas oportunidades.
 
 ## E-mail para contato:
 isaacwesley777@gmail.com
