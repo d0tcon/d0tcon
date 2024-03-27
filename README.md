@@ -6,6 +6,8 @@
 
 ![d0tcon GitHub stats](https://github-readme-stats.vercel.app/api?username=d0tcon&show_icons=true&theme=synthwave)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0tcon&hide_progress=false)
+
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
